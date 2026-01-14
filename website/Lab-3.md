@@ -22,18 +22,18 @@ Step-by-step instructions
     ![image](./imgs/lab-4/hr_c_step7.png)
 1.  Click "Create Agent"
 1.  Type the following:  
-    Name: \[Your Initials\]\_employee\_healthcare\_agent  
+    Name: [Your Initials]\_employee\_healthcare\_agent  
     Description:
     ```
     You are an agent who specializes in customer care for a large healthcare institution. You should be compassionate to the user.
     You are able to answer questions around benefits provided by different plans, the status of a claim, and are able to help direct people to the nearest provider for a particular ailment.
     ```
     ![image](./imgs/lab-4/hr_c_step9.png) 
-1.  Once the \[your\_initials\]\_employee\_healthcare\_agent has been created, scroll down to Toolset > Add Tool and add the following tools from local instance 
+1.  Once the [your\_initials]\_employee\_healthcare\_agent has been created, scroll down to Toolset > Add Tool and add the following tools from local instance 
     ![image](./imgs/lab-4/hr_c_step10.png)
     ![image](./imgs/lab-4/hr_c_step10_2.png)
 1.  Go back to "Manage Agents"
-1.  Click back into \[Your\_Initial\]\_HR\_Agent agent.
+1.  Click back into [Your\_Initial]\_HR\_Agent agent.
 
     ![image](./imgs/lab-4/hr_c_step11.png)
 1.  Scroll down to Toolset > Agents and click "Add agent" button  
@@ -42,7 +42,7 @@ Step-by-step instructions
 1.  Click "Add from local instance"  
 
     ![image](./imgs/lab-4/hr_c_step14.png)
-1.  Add the \[Your Initials\]\_employee\_healthcare\_agent and \[Your Initials\]\_Employee Address as collaborators.
+1.  Add the [Your Initials]\_employee\_healthcare\_agent and [Your Initials]\_Employee Address as collaborators.
 
     ![image](./imgs/lab-4/hr_c_step_2agent.png)
 1.  Scroll up & update the agent **Description**:
@@ -52,7 +52,7 @@ Step-by-step instructions
 1. Select the Agent Style as "React".
     ![image](./imgs/lab-4/hr_agent_style.png)
 
-1. Now, we will add a whole new prebuilt agent as a collaborator. 
+1. Now, we will add a whole new prebuilt agent [Leave Management Agent] as a collaborator. 
     ![image](./imgs/lab-4/hr_c_step_addleave1.png)
 
     ![image](./imgs/lab-4/hr_c_step_addleave2.png)
@@ -80,7 +80,7 @@ Step-by-step instructions
     | Malaysia | jamie.tan1@bestrun.sg |  
 
     ```
-    I want to apply for childcare leave for a day.
+    I want to apply for annual leave for a day.
     ```
     ```
     jamie.tan@bestrun.sg
