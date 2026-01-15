@@ -42,9 +42,9 @@ Step-by-step instructions
 1.  Click "Add from local instance"  
 
     ![image](./imgs/lab-4/hr_c_step14.png)
-1.  Add the [Your Initials]\_employee\_healthcare\_agent and [Your Initials]\_Employee Address as collaborators.
+1.  Add the "[Your Initials]\_employee\_healthcare\_agent", "[Your Initials]\_Employee Address" and "SA_Leave Management" as collaborators.
 
-    ![image](./imgs/lab-4/hr_c_step_2agent.png)
+    ![image](./imgs/lab-4/Add_Agent_SA_LeaveMgmt.png)
 1.  Scroll up & update the agent **Description**:
     ```
     You are an agent who handles employee HR queries. You provide short and crisp responses, keeping the output to 200 words or less. You can help users check their profile data, update their addresses within the SAP system.You can also reroute to an employee_healthcare_agent for answering questions related to employee health insurance policies, providers/doctors, medical claims.

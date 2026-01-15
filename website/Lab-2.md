@@ -37,29 +37,17 @@ We will make this agent more powerful with more tools and access to APIs, and en
 
     ![image](./imgs/lab-3a/hr_step4.png)
 
-1. We are going to build a knowledge base for the agent. Scroll down the screen to the **Knowledge** section and click on "Choose knowledge".
+1. We are going to build a knowledge base for the agent. Scroll down the screen to the **Knowledge** section and click on "Add source".
 
-    ![image](./imgs/lab-3a/hr_step_knowledge.png)
+    ![image](./imgs/lab-3a/Select_Knowledge.png)
 
-1. Choose "Upload files" and click "Next".
+1. Choose "Existing Knowledge".
 
-    ![image](./imgs/lab-3a/hr_step_uploadfile.png)
+    ![image](./imgs/lab-3a/existing_knowledge.png)
 
-1. Drag and drop the [Employee Benefits.pdf](./pdfs/Employee-Benefits.pdf) and click on **Next**:
+1. Search "Sri Employee Benefits" and click on the tab then click **Add knowledge**:
 
-    ![image](./imgs/lab-3a/hr_step6.png)
-
-1. Copy the following description into the **Description** section and click **Save**:
-
-    ```
-    This knowledge base addresses the company's employee benefits, including parental leaves, pet policy, flexible work arrangements, and student loan repayment.
-    ```
-
-    ![image](./imgs/lab-3a/hr_step_desc.png)
-
-    The knowledge base will take some time to create. After the knowledge base is done, you will be brought back to the Agent Builder UI.
-
-    ![image](./imgs/lab-3a/hr_step_kbase.png)
+    ![image](./imgs/lab-3a/Sri_emp_ben.png)
 
 
 1. Scroll down to the **Behavior** section. Insert the instructions below into the **Instructions** field:
