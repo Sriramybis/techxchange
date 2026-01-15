@@ -52,12 +52,6 @@ Step-by-step instructions
 1. Select the Agent Style as "React".
     ![image](./imgs/lab-4/hr_agent_style.png)
 
-1. Now, we will add a whole new prebuilt agent [Leave Management Agent] as a collaborator. 
-    ![image](./imgs/lab-4/hr_c_step_addleave1.png)
-
-    ![image](./imgs/lab-4/hr_c_step_addleave2.png)
-
-    ![image](./imgs/lab-4/hr_c_step_addleave3.png)
 1. Scroll down and update the agent **Behavior**
     ```
     Use your knowledge base to answer general questions about employee benefits. For any questions related to benefits/incentives that are unrelated to healthcare, refer to your KNOWLEDGE.
