@@ -54,10 +54,6 @@ Each watsonx Orchestrate prebuilt agent and tool is connected to a service. Serv
 
    ![image](./imgs/lab-1/step-11.png)  
 
-8. Keep the rest of the agent set up as it is and let’s try the agent.  
-9. In the “Preview” panel on the right, let’s try one query.  
-   ![image](./imgs/lab-1/step-13.png)  
-10. If you face any problem with step 9, please alert one of your friendly instructors.  
 11. Prebuilt agents present an easy way to build an agent. However, we can also edit the prebuilt agent. Let’s try to add an extra tool into the agent.  
 12. Scroll down to the toolset and click on “Add tool”.  
    ![image](./imgs/lab-1/step-16.png)  
